@@ -1,0 +1,62 @@
+1) netflix
+escenario
+	el usuario deberia poder ver una pelicula o serie
+
+datos de prueba
+	email: prueba@gmail.com
+	password: ***********
+
+precondiciones: 
+	1) tener cuenta en la plataforma
+
+paso a prueba
+	1) ingrsar a : https://www.netflix.com/co/login
+	2) ingresar los datos requeridos email y password
+	3) seleccionamos el perfil del usuario
+	4) dar click en la lupa de busqueda
+	5) ingresamos nombre de la pelicula o serie que se desea buscar
+	6) dar click en la serie buscada
+	7) dar click en reproducir
+
+2) netlify
+escenario
+	el usuario debera tener cuenta para desplegar un proyecto web
+
+datos de prueba
+	email: prueba@gmail.com
+	password: *********
+
+paso a prueba
+	1) ingresar a https://app.netlify.com/signup
+	2) tener cuenta en una de las siguientes plataformas 
+		github
+		gitlab
+		bitbucket
+		email
+	3) elegir una de las cuentas para registrarse en este caso correo
+	4) ingresar los datos requeridos por la plataforma email y password
+	5) ingresamosa a https://app.netlify.com/signup
+	6) seleccionar la opcion con la cual se registro correo
+	7) ingresar los datos requeridos por la plataforma email y password
+	8) dar click en sites
+	9) dar click en browse to upload y seleccionamos el proyecto a subir
+	10) dar click en aceptar
+	11) dar click en el enlace para ver el proyecto desplegado en la web
+	
+3) Linkedin learning
+escenario
+	el usuario desea obtener un curso en la plataforma de likedin
+
+datos de prueba
+	email: prueba@gmail.com
+	password: *******
+
+paso a prueba
+	1) ingresar a la pagina de likedin https://www.linkedin.com/
+	2) dar click en "Adquirir una nueva aptitud"
+	3) Buscamos el curso que deea obtener 
+	4) Dar click en el curso buscado
+	5) dar click en Comprar el curso
+	6) ingresamos el correo
+	7) realiamos el pago del curso
+	
